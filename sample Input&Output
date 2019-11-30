@@ -1,0 +1,7 @@
+Enter a positive number: 2345
+ The reverse of the number is: 5432
+ The number is not a palindrome.
+ ____________________________________ 
+ Enter a positive number: 232
+ The reverse of the number is: 232
+ The number is a palindrome.
